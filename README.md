@@ -25,6 +25,6 @@ a simple OpenGL example written in C++ that demonstrates clean coding practices 
    cd OpenGL-Clean-Code-Example
 
 ## Code Explanation
-Shader Class manages shader compilation and program linking.
-Renderer Class: handles the initialization and rendering of OpenGL objects.
-Application Class: controls the window and openGL context, and main loop.
+- Shader Class manages shader compilation and program linking.
+- Renderer Class: handles the initialization and rendering of OpenGL objects.
+- Application Class: controls the window and openGL context, and main loop.
