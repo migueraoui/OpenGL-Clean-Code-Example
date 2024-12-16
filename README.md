@@ -22,7 +22,6 @@ a simple OpenGL example written in C++ that demonstrates clean coding practices 
 
    ```bash
    git clone https://github.com/yourusername/OpenGL-Clean-Code-Example.git
-   cd OpenGL-Clean-Code-Example
 
 ## Code Explanation
 - Shader Class manages shader compilation and program linking.
